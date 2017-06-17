@@ -27,6 +27,8 @@
   background-color: #e9ebee;
 }
 
+
+
  .white-text {
    color: white !important;
 }
@@ -57,6 +59,10 @@
 
 .image-post {
     margin-bottom: 15px;
+}
+
+#shu {
+  font-weight: bold;
 }
 
 #main {
