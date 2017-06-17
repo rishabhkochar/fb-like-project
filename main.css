@@ -32,6 +32,16 @@
     color: grey;
  }
 
+
+
+ .panel-title a {
+    font-weight: bold;
+ }
+
+.panel-title #shared {
+   color: black;
+}
+
 .list-heading {
    font-weight: bold;
 }
