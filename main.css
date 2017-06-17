@@ -16,19 +16,25 @@
 }
 
 #wrapper {
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #main,
 #menu,
 #sidebar {
-  height: 620px;
+  height: 570px;
   background-color: #e9ebee;
 }
 
  .white-text {
    color: white !important;
+}
+
+.my-buttons a {
+   text-decoration: none;
+   color: black;
+   padding-right: 7px;
 }
 
 .list-heading {
