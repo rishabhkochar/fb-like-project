@@ -31,6 +31,11 @@ body{
    background-color: #e9ebee;
 }
 
+#map {
+       height: 300px;
+       width: 100%;
+      }
+
  .nav-stacked .badge {
     background-color:  #e9ebee;
     color: grey;
