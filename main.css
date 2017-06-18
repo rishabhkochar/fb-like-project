@@ -27,12 +27,18 @@
   background-color: #e9ebee;
 }
 
+body{
+   background-color: #e9ebee;
+}
+
  .nav-stacked .badge {
     background-color:  #e9ebee;
     color: grey;
  }
 
-
+.nav-stacked a {
+   color: black;
+}
 
  .panel-title a {
     font-weight: bold;
